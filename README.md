@@ -57,4 +57,4 @@ getgenv().Reaction = function()
 end
 ```
 
-5. Run the "Main Source" with the edited table.
+5. Run the "Main Source" with the edited changes.
