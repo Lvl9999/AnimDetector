@@ -9,11 +9,14 @@ loadstring(game:HttpGet("https://raw.githubusercontent.com/CenteredSniper/Kenzen
   
 3. Click on the name of the attack that added after you just attacked [It will be pasted to your clipboard]
 
-4. Paste either the "ID" or "Name" to
+4. Paste either the "ID" or "Name" to:
+
+Example: Animation ID: "696969" | Animation Name: "M1".
+
 ```lua
-getgenv().Animations = { -- Animation ID | Animation Name
-     "Anim1",
-     "Anim2",
+getgenv().Animations = { -- Example
+     "696969", -- Same as "M1".
+     "M1", -- Same as "696969".
      "Anim3",
      "Anim4",
 }
