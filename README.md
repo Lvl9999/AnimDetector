@@ -1,5 +1,5 @@
 # Universal Animation Detector
-Script that allows you to detect animations fired within certain distance
+Script that allows you to detect animations fired within certain distance.
 
 # Main Source
 ```lua
