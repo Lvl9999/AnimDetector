@@ -48,4 +48,12 @@ getgenv().Animations = {
   -- Add more animations here
 }
    ```
-5. Run the code
+# Manage your reaction
+5.
+```lua
+getgenv().Reaction = function()
+    print("Animation Detected!");
+end
+```
+
+5. Run the "Main Source" with the edited table.
