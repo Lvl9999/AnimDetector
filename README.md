@@ -49,10 +49,11 @@ getgenv().Animations = {
 }
    ```
 # Manage your reaction
-5.
+Here's how you decide what to do when you detected an animation fired within "Mag" variable's value:
+
 ```lua
 getgenv().Reaction = function()
-    print("Animation Detected!");
+    print("Animation Detected!"); -- In this case it will print the word "Animation Detected!" in F9 console
 end
 ```
 
