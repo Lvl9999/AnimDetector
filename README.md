@@ -27,7 +27,16 @@ end
 
 loadstring(game:HttpGet("https://raw.githubusercontent.com/Lvl9999/AnimDetector/main/Universal"))();
 ```
-
+-----------------------------------------------------------------------------------------------------------
+# Keybind
+```lua
+getgenv().Keybind = Enum.KeyCode.V -- In this case its "V" OFF|ON toggle.
+```
+# Distance
+```lua
+getgenv().Mag = 10 -- In this case it detect if someone is 10 studs near you.
+```
+-----------------------------------------------------------------------------------------------------------
 # How to use:
 1. Run this code.
 ```lua
