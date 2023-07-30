@@ -37,7 +37,7 @@ loadstring(game:HttpGet("https://raw.githubusercontent.com/CenteredSniper/Kenzen
   
 3. Click on the name of the attack that added after you just attacked [It will be pasted to your clipboard]
 
-4. Paste either the "ID" or "Name" to:
+4. Paste either the "ID" or "Name" to the "Animations" table variable:
 
 Example: Animation ID: "69" | Animation Name: "M1".
 
