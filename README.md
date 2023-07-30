@@ -1,6 +1,6 @@
 # Universal Animation Detector
 
-# Source
+# Main Source
 ```lua
 --[[ Made by ThroughTheFireAndFlames#9925
 
