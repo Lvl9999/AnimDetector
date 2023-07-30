@@ -24,7 +24,8 @@ getgenv().Reaction = function()
     print("Animation Detected!");
 end
 
-loadstring(game:HttpGet("https://raw.githubusercontent.com/Lvl9999/AnimDetector/main/Universal"))();```
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Lvl9999/AnimDetector/main/Universal"))();
+```
 
 # How to use:
 1. Run this code.
