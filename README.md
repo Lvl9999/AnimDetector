@@ -1,7 +1,7 @@
 # Universal Animation Detector
 
 # How to use:
-1. Execeute this code
+1. Run this code.
 ```lua
 loadstring(game:HttpGet("https://raw.githubusercontent.com/CenteredSniper/Kenzen/master/AnimationStealer.lua"))();
 ```
