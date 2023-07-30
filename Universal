@@ -9,7 +9,7 @@ getgenv().Keybind = Enum.KeyCode.V
 
 getgenv().Mag = 10
 
-getgenv().Animations = {
+getgenv().Animations = { -- Animation ID | Animation Name
      "Anim1",
      "Anim2",
      "Anim3",
